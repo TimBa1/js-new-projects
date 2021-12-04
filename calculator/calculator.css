@@ -1,0 +1,29 @@
+body{
+    color: rgb(101, 112, 112);
+    text-align: center;
+    background-color: bisque;
+}
+button{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color:black;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    background-color: cyan;
+    display:grid;
+    margin-left: 17rem;
+    margin-top: 2rem;
+}
+span{
+    text-underline-position: below;
+    font-weight: 400;
+    font-size: 60px;
+    margin-right: 50px;
+    padding-bottom: 40px;
+
+}
+
+
